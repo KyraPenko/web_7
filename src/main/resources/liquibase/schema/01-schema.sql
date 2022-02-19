@@ -7,7 +7,7 @@ create table resource
     name varchar(256)
 )
 
---changeset anatoly:v02
+--changeset ostap:v02
 drop table resource;
 create table products
 (
